@@ -1,0 +1,3 @@
+pxrr -t morph.tre -o Gorilla_gorilla
+pxrr -t morph.tre -g Gorilla_gorilla
+pxrr -t morph.tre -g Gorilla_gorilla

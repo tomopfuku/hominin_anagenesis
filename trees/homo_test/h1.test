@@ -1,0 +1,25 @@
+calculating AIC of fully bifurcating arrangement
+(Homo_antecessor:0.178,(Homo_heidelbergensis:0.36,(Homo_sapiens:0.246,Homo_neanderthalensis:0.23):0.364):0.338):0.0
+optimizing 6 parameters under Mk
+optimizing 6 parameters under Mk
+optimizing 6 parameters under Mk
+optimizing 6 parameters under Mk
+(Homo_antecessor:0.158000008487,(Homo_heidelbergensis:0.340000010109,(Homo_sapiens:0.236000005907,Homo_neanderthalensis:0.210000009007):0.364):0.337999998378):0.0
+-110.724519799 -443.6015956832
+1172.65223096
+1172.65223096
+making H. antecessor a SA and calculating AIC
+(Homo_antecessor:0.158000008487,((Homo_sapiens:0.236000005907,Homo_neanderthalensis:0.210000009007):0.0239999898914)Homo_heidelbergensis:0.678000008487):0.0
+optimizing 5 parameters under Mk
+optimizing 5 parameters under Mk
+optimizing 5 parameters under Mk
+optimizing 5 parameters under Mk
+Optimization terminated successfully.
+         Current function value: 97.304533
+         Iterations: 3
+         Function evaluations: 915
+(Homo_antecessor:0.158000000012,((Homo_sapiens:0.236000000008,Homo_neanderthalensis:0.209999999997):0.00907662122769)Homo_heidelbergensis:0.692923378772):0.0
+-97.3045326165 -444.351754716
+1137.31257467
+
+

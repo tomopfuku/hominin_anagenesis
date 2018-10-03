@@ -1,0 +1,10 @@
+making SA and calculating AIC
+(Gorilla_gorilla:8.01,(Pan_troglodytes:7.26,(((Ardipithecus_ramidus:0.23,(Australopithecus_afarensis:0.9)Australopithecus_anamensis:0.63):0.01,(((Paranthropus_aethiopicus:0.39,(Paranthropus_boisei:1.34,Paranthropus_robustus:1.54):0.18):0.98,(Australopithecus_africanus:1.99,(((Homo_habilis:0.99,(Homo_rudolfensis:0.54,(Homo_erectus_african:1.22,((Homo_erectus_asian:1.71)Homo_erectus_georgian:0.13,(((Homo_sapiens:0.246,Homo_neanderthalensis:0.228):0.004)Homo_heidelbergensis:0.52)Homo_antecessor:1.1):0.04):0.5):0.01):0.01,Australopithecus_sediba:0.66):0.01,Homo_floresiensis:2.39):1.24):0.01):0.01,Australopithecus_garhi:1.21):0.83):2.16)Sahelanthropus_tchadensis:0.57):0.75):0.0
+optimizing 37 parameters under Mk
+optimizing 37 parameters under Mk
+optimizing 37 parameters under Mk
+optimizing 37 parameters under Mk
+(Gorilla_gorilla:8.00000000001,(Pan_troglodytes:7.24000000018,(((Ardipithecus_ramidus:0.210000000085,(Australopithecus_afarensis:0.773998667621)Australopithecus_anamensis:0.736001332464):2.68465427666e-09,(((Paranthropus_aethiopicus:0.370000000083,(Paranthropus_boisei:1.32000000019,Paranthropus_robustus:1.52000000019):0.179999999897):0.970000026712,(Australopithecus_africanus:1.9700000001,(((Homo_habilis:0.960000018901,(Homo_rudolfensis:0.520000000103,(Homo_erectus_african:1.20000000008,((Homo_erectus_asian:1.66942413134)Homo_erectus_georgian:0.140575868707,(((Homo_sapiens:0.236000000015,Homo_neanderthalensis:0.208000000028):0.0112283431594)Homo_heidelbergensis:0.404654384674)Homo_antecessor:1.19811727218):0.0499999999772):0.50000000002):1.8798401058e-08):5.93609938448e-06,Australopithecus_sediba:0.620005955001):0.000313272261237,Homo_floresiensis:2.3403192272):1.26968077284):2.66913140479e-08):3.7661358232e-06,Australopithecus_garhi:1.17000379299):0.83999620984):1.21304847483)Sahelanthropus_tchadensis:1.51695152266):0.759999999823):0.0
+-535.332265329 -3918.64155764
+9281.94764594
+9281.94764594

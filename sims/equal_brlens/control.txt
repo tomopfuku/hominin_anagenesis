@@ -1,0 +1,13 @@
+[TYPE] NUCLEOTIDE 1
+[MODEL] jukes
+ [submodel] JC 
+[TREE] tree (E:0.1,((A:0.1,B:0.1):0.1,(C:0.1,D:0.1):0.1):0.1);
+
+[PARTITIONS] JC69 
+ [tree jukes 100]
+
+[SETTINGS]    
+  [ancestralprint] SAME
+
+[EVOLVE]
+	JC69 1 pJC 

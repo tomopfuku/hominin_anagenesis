@@ -1,0 +1,13 @@
+-532.378912454 -4101.72145295
+9672.20073081
+9672.20073081
+making SA and calculating AIC
+(Gorilla_gorilla:8.00000000001,(Pan_troglodytes:7.24000000269,(((Ardipithecus_ramidus:0.210000000085,(Australopithecus_afarensis:0.9)Australopithecus_anamensis:0.610000000085):2.68465427666e-09,(Australopithecus_africanus:1.97000000008,(((Paranthropus_aethiopicus:0.370000000103,(Paranthropus_boisei:1.32000000019,Paranthropus_robustus:1.52000000019):0.179999999917):2.66913140479e-08,(((Homo_habilis:0.960000018901,(Homo_rudolfensis:0.520000000103,(Homo_erectus_african:1.20000000008,((Homo_erectus_asian:1.70999999994)Homo_erectus_georgian:0.100000007968,(((Homo_sapiens:0.236000000015,Homo_neanderthalensis:0.208000000028):0.00598053622559)Homo_heidelbergensis:0.422515639419)Homo_antecessor:1.18550383223):0.0499999921149):0.50000000002):1.8798401058e-08):5.93609938448e-06,Australopithecus_sediba:0.620005955001):0.000307328923176,Homo_floresiensis:2.34031328386):0.29968674287):3.7661358232e-06,Australopithecus_garhi:0.200003792988):0.969996207153):0.840000002687):2.18999999723)Sahelanthropus_tchadensis:0.54000000277):0.759999997313):0.0
+optimizing 37 parameters under Mk
+optimizing 37 parameters under Mk
+optimizing 37 parameters under Mk
+optimizing 37 parameters under Mk
+(Gorilla_gorilla:8.00000000001,(Pan_troglodytes:7.24000000001,(((Ardipithecus_ramidus:0.210000000004,(Australopithecus_afarensis:0.796662781823)Australopithecus_anamensis:0.713337218182):4.19930756834e-12,(Australopithecus_africanus:1.97000000001,(((Paranthropus_aethiopicus:0.370000000011,(Paranthropus_boisei:1.32000000001,Paranthropus_robustus:1.52000000001):0.18):3.52828877226e-12,(((Homo_habilis:0.960000000013,(Homo_rudolfensis:0.520000000012,(Homo_erectus_african:1.20000000001,((Homo_erectus_asian:1.66660151872)Homo_erectus_georgian:0.143398481287,(((Homo_sapiens:0.236000000004,Homo_neanderthalensis:0.208000000005):0.0113609357685)Homo_heidelbergensis:0.427899429562)Homo_antecessor:1.17473963467):0.0500000000037):0.5):1.37667655054e-12):9.47419920294e-12,Australopithecus_sediba:0.620000000023):7.84814435661e-10,Homo_floresiensis:2.3400000008):0.299999999207):2.9404922941e-11,Australopithecus_garhi:0.200000000055):0.969999999968):0.839999999997):1.81279547447)Sahelanthropus_tchadensis:0.917204525528):0.760000000003):0.0
+-529.532117605 -3943.51401534
+9320.0922659
+9320.0922659

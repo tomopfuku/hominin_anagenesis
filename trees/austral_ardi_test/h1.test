@@ -1,0 +1,21 @@
+calculating AIC of bifurcating arrangement
+(Gorilla_gorilla:8.01,(Pan_troglodytes:7.29,((Ardipithecus_ramidus:2.98,((Sahelanthropus_tchadensis:0.56,(Australopithecus_anamensis:0.29,(Australopithecus_afarensis:0.72,(((Paranthropus_aethiopicus:0.39,(Paranthropus_boisei:1.34,Paranthropus_robustus:1.54):0.18):0.98,(Australopithecus_africanus:1.99,(((Homo_habilis:0.99,(Homo_rudolfensis:0.54,(Homo_erectus_african:1.22,((Homo_erectus_georgian:0.12,Homo_erectus_asian:1.83):0.01,(((Homo_sapiens:0.246,Homo_neanderthalensis:0.23):0.004)Homo_heidelbergensis:0.52)Homo_antecessor:1.1):0.04):0.5):0.01):0.01,Australopithecus_sediba:0.66):0.01,Homo_floresiensis:2.39):1.24):0.01):0.01,Australopithecus_garhi:1.21):0.01):0.47):3.07):0.01):0.01):0.01):0.01):0.72):0.0
+optimizing 42 parameters under Mk
+optimizing 42 parameters under Mk
+optimizing 42 parameters under Mk
+optimizing 42 parameters under Mk
+-618.589622105 -3866.07346936
+9393.32618293
+9393.32618293
+
+making SA and calculating AIC
+(Gorilla_gorilla:8.00000000001,(Pan_troglodytes:7.24000379286,((Sahelanthropus_tchadensis:0.540000000103,Ardipithecus_ramidus:2.9400000001):2.66913131597e-08,((Australopithecus_afarensis:0.700000000083,(((Paranthropus_aethiopicus:0.370000000083,(Paranthropus_boisei:1.32000000019,Paranthropus_robustus:1.52000000019):0.179999999897):0.970000018819,(Australopithecus_africanus:1.9700000001,(((Homo_habilis:0.960000018901,(Homo_rudolfensis:0.520000000103,(Homo_erectus_african:1.20000000008,((Homo_erectus_georgian:0.100000000084,Homo_erectus_asian:1.81000000002):7.88406695484e-09,(((Homo_sapiens:0.236000000071,Homo_neanderthalensis:0.210000000084):0.00171601798123)Homo_heidelbergensis:0.419829766339)Homo_antecessor:1.1924542235):0.0499999921149):0.50000000002):1.8798401058e-08):5.93609938448e-06,Australopithecus_sediba:0.620005955001):0.000313272261237,Homo_floresiensis:2.3403192272):1.26968077284):1.8798401058e-08):6.28990807039e-06,Australopithecus_garhi:1.17000630887):0.0299936912733):0.199999999917)Australopithecus_anamensis:3.34000002679):3.76613582365e-06):0.759996207153):0.0
+optimizing 39 parameters under Mk
+optimizing 39 parameters under Mk
+optimizing 39 parameters under Mk
+optimizing 39 parameters under Mk
+(Gorilla_gorilla:8.00000000001,(Pan_troglodytes:7.24000000004,((Sahelanthropus_tchadensis:0.540000000011,Ardipithecus_ramidus:2.94000000001):3.52784468305e-12,((Australopithecus_afarensis:0.700000000012,(((Paranthropus_aethiopicus:0.370000000012,(Paranthropus_boisei:1.32000000001,Paranthropus_robustus:1.52000000001):0.180000000001):0.970000000008,(Australopithecus_africanus:1.97000000001,(((Homo_habilis:0.960000000013,(Homo_rudolfensis:0.520000000012,(Homo_erectus_african:1.20000000001,((Homo_erectus_georgian:0.100000000013,Homo_erectus_asian:1.81000000001):2.13451478714e-12,(((Homo_sapiens:0.236000000003,Homo_neanderthalensis:0.210000000004):0.00930275311487)Homo_heidelbergensis:0.387789477503)Homo_antecessor:1.21690776939):0.0499999999969):0.5):1.37667655054e-12):9.47419920294e-12,Australopithecus_sediba:0.620000000023):9.5978114345e-10,Homo_floresiensis:2.34000000098):1.26999999903):7.56195106533e-12):1.19033671808e-11,Australopithecus_garhi:1.17000000004):0.0299999999804):0.083998667449)Australopithecus_anamensis:3.45600133255):2.9404922941e-11):0.759999999968):0.0
+-617.613761207 -3860.95672073
+9351.14096387
+9351.14096387
+

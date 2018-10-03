@@ -1,0 +1,148 @@
+
+
+This is RAxML version 8.2.11 released by Alexandros Stamatakis on June 2017.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 373 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 52.93%
+
+RAxML rapid hill-climbing mode
+
+Using 4 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 284
+Name: 2
+DataType: Multi-State with 2 distinct states in use (maximum 32)
+Substitution Matrix: MK model
+
+
+
+Partition: 1
+Alignment Patterns: 76
+Name: 3
+DataType: Multi-State with 3 distinct states in use (maximum 32)
+Substitution Matrix: MK model
+
+
+
+Partition: 2
+Alignment Patterns: 10
+Name: 4
+DataType: Multi-State with 4 distinct states in use (maximum 32)
+Substitution Matrix: MK model
+
+
+
+Partition: 3
+Alignment Patterns: 3
+Name: 5
+DataType: Multi-State with 5 distinct states in use (maximum 32)
+Substitution Matrix: MK model
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -m MULTICAT -p 12345 -s ../matrix/hominin.stateparts.phy -q ../matrix/hominin.phy.models_invar -K MK -n hominin 
+
+
+Partition: 0 with name: 2
+Base frequencies: 0.500 0.500 
+
+Partition: 1 with name: 3
+Base frequencies: 0.333 0.333 0.333 
+
+Partition: 2 with name: 4
+Base frequencies: 0.250 0.250 0.250 0.250 
+
+Partition: 3 with name: 5
+Base frequencies: 0.200 0.200 0.200 0.200 0.200 
+
+Inference[0]: Time 2.922448 CAT-based likelihood -2304.876314, best rearrangement setting 5
+alpha[0]: 1.000000 alpha[1]: 1.000000 alpha[2]: 1.000000 alpha[3]: 1.000000 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+
+WARNING the alpha parameter with a value of 15.026460 estimated by RAxML for partition number 2 with the name "4"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 19.249114 estimated by RAxML for partition number 1 with the name "3"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 34.781155 estimated by RAxML for partition number 2 with the name "4"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 41.127359 estimated by RAxML for partition number 1 with the name "3"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 80.340839 estimated by RAxML for partition number 2 with the name "4"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 90.810853 estimated by RAxML for partition number 1 with the name "3"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 176.279084 estimated by RAxML for partition number 2 with the name "4"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 195.677844 estimated by RAxML for partition number 1 with the name "3"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 397.771574 estimated by RAxML for partition number 2 with the name "4"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0] final GAMMA-based Likelihood: -2562.084033 tree written to file /Users/caroline/Dropbox/documents/current_projects/hominoid_stratoclad/raxml/RAxML_result.hominin
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -2562.084033 .... 
+
+Final GAMMA-based Score of best tree -2560.490660
+
+Program execution info written to /Users/caroline/Dropbox/documents/current_projects/hominoid_stratoclad/raxml/RAxML_info.hominin
+Best-scoring ML tree written to: /Users/caroline/Dropbox/documents/current_projects/hominoid_stratoclad/raxml/RAxML_bestTree.hominin
+
+Overall execution time: 4.881203 secs or 0.001356 hours or 0.000056 days
+
